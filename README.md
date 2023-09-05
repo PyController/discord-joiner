@@ -1,21 +1,29 @@
-# discord-joiner
+# Discord mass server joiner 🪐
+Fork of keks joiner, but with proxy support, mass invites into invites.txt and error handling (And some bypass for cap)!
 
-a simple discord joiner by kek & yaboi
+## 📹 Preview
 
-## Usage
+![dont let bro get bored again](https://cdn.discordapp.com/attachments/1148222669737689130/1148688906632581140/image.png)
 
-First, install the dependencies:
+## 🔥 Features
+- Proxy support
+- Mass join
+- Fully Requests Based
+- No Bugs / Errors
+- Error handling (Ratelimit/captcha)
+- Slick UI
+- Easy & Fast To Setup
 
-```bash
-pip install -r requirements.txt
-```
+## ✍️ Usage
+1. Open `main.py` (very hard)
 
-Then, populate the `tokens.txt` file with your tokens.
+## ⚠️ DISCLAIMER / NOTES
+This github repo is for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if a problem occurs.
+If you get any error on it or u want something into it, ask me in my discord: `pycontroller`
 
-Finally, run the script:
+## ✨ Issues / Doubts
 
-```bash
-python main.py
-```
+- If you get any suggestion or u want something into it, ask me in my discord: `pycontroller`
+- Or if you have any error do not forget to report it in: [issues](https://github.com/PyController/discord-joiner/issues)
 
-![image](https://github.com/kekeds/discord-joiner/assets/107649934/c9fc3b9c-e5fa-4e98-9684-b77a6d2bfb8b)
+Readme by @H4cK3dR4Du
