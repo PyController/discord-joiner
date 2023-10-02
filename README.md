@@ -1,6 +1,6 @@
 # Discord mass server joiner 🪐
 Fork of keks joiner, but with proxy support, mass invites into invites.txt and error handling (And some bypass for cap)!
-Working at 08/09/2023
+Working at 02/10/2023
 
 ## 📹 Preview
 
